@@ -6,4 +6,6 @@ z = x + y; // Assign the sum of x and y to z
 
 z = 7;
 
-console.log("belllo");
+console.log("belllo") ;
+
+
